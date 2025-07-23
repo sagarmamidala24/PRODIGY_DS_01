@@ -20,7 +20,7 @@ The scripts utilize World Bank-style population data and gender distribution sta
 ### How to Use
 - Install dependencies: pip install pandas matplotlib
 - Run the script to generate the plots.
-- The graphs will be displayed in separate windows.
+- The graphs will be displayed in separate windows..
 
 
 
